@@ -1,0 +1,16 @@
+C:\nelnet-projects\TicketPrice\TicketPriceExercise\bin\Debug\net5.0\TicketPriceExercise.exe
+C:\nelnet-projects\TicketPrice\TicketPriceExercise\bin\Debug\net5.0\TicketPriceExercise.deps.json
+C:\nelnet-projects\TicketPrice\TicketPriceExercise\bin\Debug\net5.0\TicketPriceExercise.runtimeconfig.json
+C:\nelnet-projects\TicketPrice\TicketPriceExercise\bin\Debug\net5.0\TicketPriceExercise.runtimeconfig.dev.json
+C:\nelnet-projects\TicketPrice\TicketPriceExercise\bin\Debug\net5.0\TicketPriceExercise.dll
+C:\nelnet-projects\TicketPrice\TicketPriceExercise\bin\Debug\net5.0\ref\TicketPriceExercise.dll
+C:\nelnet-projects\TicketPrice\TicketPriceExercise\bin\Debug\net5.0\TicketPriceExercise.pdb
+C:\nelnet-projects\TicketPrice\TicketPriceExercise\obj\Debug\net5.0\TicketPriceExercise.csproj.AssemblyReference.cache
+C:\nelnet-projects\TicketPrice\TicketPriceExercise\obj\Debug\net5.0\TicketPriceExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\nelnet-projects\TicketPrice\TicketPriceExercise\obj\Debug\net5.0\TicketPriceExercise.AssemblyInfoInputs.cache
+C:\nelnet-projects\TicketPrice\TicketPriceExercise\obj\Debug\net5.0\TicketPriceExercise.AssemblyInfo.cs
+C:\nelnet-projects\TicketPrice\TicketPriceExercise\obj\Debug\net5.0\TicketPriceExercise.csproj.CoreCompileInputs.cache
+C:\nelnet-projects\TicketPrice\TicketPriceExercise\obj\Debug\net5.0\TicketPriceExercise.dll
+C:\nelnet-projects\TicketPrice\TicketPriceExercise\obj\Debug\net5.0\ref\TicketPriceExercise.dll
+C:\nelnet-projects\TicketPrice\TicketPriceExercise\obj\Debug\net5.0\TicketPriceExercise.pdb
+C:\nelnet-projects\TicketPrice\TicketPriceExercise\obj\Debug\net5.0\TicketPriceExercise.genruntimeconfig.cache
